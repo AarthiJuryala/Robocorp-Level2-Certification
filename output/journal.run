@@ -1,0 +1,21 @@
+{"when":1718003064,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/mt24005/Downloads/Robocorp/robot.yaml","comment":"at task environment setup"}
+{"when":1718003064,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.358s Context: \"mt24005\" \u003cmt24005@modaktrainee-5\u003e [linux_amd64/Distributor ID: Ubuntu; Description: Ubuntu 20.04.6 LTS; Release: 20.04; Codename: focal]."}
+{"when":1718003064,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.040s Fresh [private mode] holotree environment b341ff2e-e3e1-7766-9d96-cf38c94759c4. (parent/pid: 61373/61374)"}
+{"when":1718003064,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.048s Holotree blueprint is \"0c950ae63c992a0e\" [linux_amd64 with 3 workers on 4 CPUs from \"conda.yaml\"]."}
+{"when":1718003076,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 11.672s Restore space from library [with 3 workers on 4 CPUs; with compression: true]."}
+{"when":1718003077,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 1.543s Fresh holotree done [with 3 workers on 4 CPUs]."}
+{"when":1718003077,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1718003077,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1718003078,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[61490:python3.10]"}
+{"when":1718003098,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[61490:python3.10 61642:node]"}
+{"when":1718003101,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[61490:python3.10 61642:node 61694:chrome]"}
+{"when":1718003103,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 5 ... map[61490:python3.10 61642:node 61694:chrome 61710:chrome 61711:chrome]"}
+{"when":1718003106,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 7 ... map[61490:python3.10 61642:node 61694:chrome 61710:chrome 61711:chrome 61782:chrome 61786:chrome]"}
+{"when":1718003111,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 7 to 8 ... map[61490:python3.10 61642:node 61694:chrome 61710:chrome 61711:chrome 61782:chrome 61786:chrome 61818:chrome]"}
+{"when":1718003122,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 8 ... map[61490:python3.10 61642:node 61694:chrome 61710:chrome 61711:chrome 61782:chrome 61818:chrome 61916:chrome]"}
+{"when":1718003128,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 10 ... map[61490:python3.10 61642:node 61694:chrome 61710:chrome 61711:chrome 61782:chrome 61818:chrome 61916:chrome 61954:chrome 61955:chrome]"}
+{"when":1718003186,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 5 ... map[61490:python3.10 61642:node 61694:chrome 61710:chrome 61711:chrome]"}
+{"when":1718003188,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 1 ... map[61490:python3.10]"}
+{"when":1718003189,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1718003189,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1718003190,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
